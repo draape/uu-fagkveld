@@ -43,4 +43,4 @@ Here are some useful extensions for Google Chrome. Wave is also available for Fi
 
 Here is a checklist for UU with other good resources:
 
-- [Tools for WCAG testing](https://knowit.sharepoint.com/:w:/r/sites/PerformanceogSEO-KXO/_layouts/15/doc.aspx?sourcedoc=%7Bcb3ddc24-cc85-4825-8e5d-a36878ea37a8%7D&action=edit&cid=0bb60e0e-17ab-49d5-aaae-b235fe6bf467)
+- [Tools for WCAG testing](https://knowit.sharepoint.com/:w:/s/PerformanceogSEO-KXO/ESTcPcuFzCVIjl2jaHjqN6gBDC7yW1LYjeQd-s7WNW__mw?e=PuOfOI)
